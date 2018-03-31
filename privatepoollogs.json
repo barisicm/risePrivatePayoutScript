@@ -1,0 +1,9 @@
+{
+    "failedToLoad": false,
+    "voters": {
+        "ExampleVoterName": {
+            "address":"address",
+            "amountToPayout":1000
+        }
+    }
+}
